@@ -73,13 +73,13 @@ const foodBeverages = [
     id: 2,
     name: 'Penang Laksa',
     description: 'A sour and spicy noodle soup',
-    image: '/images/Penang-Asam.jpg',
+    image: '/images/penang-asam.jpg',
   },
   {
     id: 3,
     name: 'Nasi Kandar',
     description: 'A traditional Malaysian rice dish with curries',
-    image: '/images/Nasi-kandar.jpg',
+    image: '/images/nasi-kandar.jpg',
   },
   {
     id: 4,
@@ -119,7 +119,7 @@ const hotels = [
     id: 1,
     name: 'Hotel Jen Penang',
     description: 'A luxury hotel in the heart of Georgetown',
-    image: '/images/Hotel-jen.jpg',
+    image: '/images/hotel-jen.jpg',
   },
   {
     id: 2,
